@@ -107,7 +107,7 @@ if __name__ == "__main__":
     actions = [[True, False, False], [False, True, False], [False, False, True]]
 
     # Run this many episodes
-    episodes = 10
+    episodes = 100
 
     # Sets time that will pause the engine after each action (in seconds)
     # Without this everything would go too fast for you to keep track of what's happening.
